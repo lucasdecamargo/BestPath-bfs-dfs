@@ -2,6 +2,8 @@
 
 Best path finder graphical interface using Breadth-First Search and Depth-First Search. Implemented in `pygame`.
 
+![](Screenshot.jpeg)
+
 ## Requirements:
 
 * Python3
